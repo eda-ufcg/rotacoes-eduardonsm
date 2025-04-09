@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Eduardo Nogueira Severo de Macêdo 
+* Email (@ccc): eduardo.nogueira.severo.macedo@ccc.ufcg.edu.br
+* Matrícula: 123210308
 
 # Roteiro: isAVL
 
